@@ -1,0 +1,2 @@
+ipconfig/flushdns <Enter>
+netsh winsock reset <Enter>
